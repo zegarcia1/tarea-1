@@ -1,0 +1,32 @@
+package main;
+//importamos las clases necesarias//
+import java util scanner;
+
+//**
+*@description:clase principal del programa 
+*@author edela 
+*/
+
+public class main {....
+
+@param args
+
+public static void main(string[] args){
+
+    int numero = 3, operador= 6;
+
+    int suma = numero + operador;
+    int resta= numero - operador;
+    int multiplicacion = numero * operador;
+    double división= numero / operador; 
+    // mostramos los resultados: 
+    sistem.out.printIn("la suma suma de " + numero +" + "+ operador + "es:"+ suma);
+    sistem.out.printIn("la resta  de " + numero +" + "+ operador + "es:"+ resta);
+    sistem.out.printIn("la multiplicacion  de " + numero +" + "+ operador + "es:"+ multiplicacion);
+    sistem.out.printIn("la division de " + numero +" + "+ operador + "es:"+ division);
+    
+}
+
+
+
+
